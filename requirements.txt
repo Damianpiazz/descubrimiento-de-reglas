@@ -1,0 +1,9 @@
+pytest
+rich
+minisom
+scikit-learn
+pgmpy
+pandas
+numpy
+seaborn
+matplotlib
